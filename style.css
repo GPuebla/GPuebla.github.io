@@ -1,5 +1,5 @@
 body{
-   background-color: blue; 
+   background-color:rgb(119, 39, 20); 
 }
 main{
   display: flex;
@@ -14,13 +14,13 @@ main{
   display: flex;
   flex-direction: column;
   background: rgb(97, 171, 214);
-  width: 500px;
+  width: 400px;
   height: 600px;
   align-items: center;
   justify-content: space-evenly;
-  border-radius: 4,5 px;
+  border-radius: 7.8px;
   box-shadow: 0 0 10px black;
-  background-image: url("img/fondoMetalico.jpg");
+  background-image: url("img/fondoMetalico3.jpg");
 }
 
 .title{
@@ -29,8 +29,8 @@ main{
   align-items: center;
   width: 100%;
   height: 50px;
-  font: bold 2.5rem serif;
-  border-bottom: solid 5px blue;
+  font: bold 2.1rem serif;
+  border-bottom: solid 5px rgb(119, 39, 20);
   margin-bottom: 20px;
   font-style: oblique;
 }
@@ -73,8 +73,8 @@ button{
   width: 300px;
   height: 40px;
   font: bold 1.2rem serif;
-  background: #000;
-  color: rgb(253, 253, 253);
+  background: rgb(253, 253, 253);
+  color: rgb(2, 0, 3);
   outline: none;
   border-radius: 5px;
   cursor: pointer;
