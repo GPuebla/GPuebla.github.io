@@ -1,2 +1,2 @@
 # GPuebla.github.io
-Mis proyectos
+Este es mi primer proyecto, donde me concentre en el backend.
